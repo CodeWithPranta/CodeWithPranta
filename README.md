@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Pranta Mazumder
 - 👀 I’m interested in php and javascript 
 - 🌱 I love laravel and vue.js
-- 💞️ I’m looking to collaborate on laravel+vue projects 
+- 💞️ I’m looking to collaborate on laravel+vue projects
+- 💞️ Love FilamentPHP
 - 📫 How to reach me- WhatsApp https://wa.me/8801518480999
 
 <!---
